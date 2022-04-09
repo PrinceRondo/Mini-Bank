@@ -1,0 +1,12 @@
+C:\Users\DEVELOPER\Desktop\Olayemi\MiniBank\MiniBank.Core\bin\Debug\net5.0\MiniBank.Core.deps.json
+C:\Users\DEVELOPER\Desktop\Olayemi\MiniBank\MiniBank.Core\bin\Debug\net5.0\MiniBank.Core.dll
+C:\Users\DEVELOPER\Desktop\Olayemi\MiniBank\MiniBank.Core\bin\Debug\net5.0\ref\MiniBank.Core.dll
+C:\Users\DEVELOPER\Desktop\Olayemi\MiniBank\MiniBank.Core\bin\Debug\net5.0\MiniBank.Core.pdb
+C:\Users\DEVELOPER\Desktop\Olayemi\MiniBank\MiniBank.Core\obj\Debug\net5.0\MiniBank.Core.csproj.AssemblyReference.cache
+C:\Users\DEVELOPER\Desktop\Olayemi\MiniBank\MiniBank.Core\obj\Debug\net5.0\MiniBank.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEVELOPER\Desktop\Olayemi\MiniBank\MiniBank.Core\obj\Debug\net5.0\MiniBank.Core.AssemblyInfoInputs.cache
+C:\Users\DEVELOPER\Desktop\Olayemi\MiniBank\MiniBank.Core\obj\Debug\net5.0\MiniBank.Core.AssemblyInfo.cs
+C:\Users\DEVELOPER\Desktop\Olayemi\MiniBank\MiniBank.Core\obj\Debug\net5.0\MiniBank.Core.csproj.CoreCompileInputs.cache
+C:\Users\DEVELOPER\Desktop\Olayemi\MiniBank\MiniBank.Core\obj\Debug\net5.0\MiniBank.Core.dll
+C:\Users\DEVELOPER\Desktop\Olayemi\MiniBank\MiniBank.Core\obj\Debug\net5.0\ref\MiniBank.Core.dll
+C:\Users\DEVELOPER\Desktop\Olayemi\MiniBank\MiniBank.Core\obj\Debug\net5.0\MiniBank.Core.pdb
